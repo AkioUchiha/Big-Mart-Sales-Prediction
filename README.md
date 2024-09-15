@@ -1,4 +1,4 @@
-# Big-Mart-Sales-Prediction
+# Supermarket Sales Prediction using XGBoost
 This project involves predicting the sales of various items sold by supermarkets using machine learning techniques. The dataset includes multiple features related to the items and outlets, such as:
 
 Item Features: Item Weight, Item Identifier, Item Fat Content, Item Visibility, Item Type, Item MRP.
