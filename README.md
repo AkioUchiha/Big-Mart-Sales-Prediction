@@ -12,6 +12,7 @@ Addressed inconsistencies in categorical features (e.g., similar labels).
 Feature Engineering:
 
 Used label encoding to transform categorical features into numerical format, preparing the dataset for machine learning.
+
 Model Training:
 
 Applied the XGBoost Regressor algorithm to train the model on the processed dataset.
